@@ -1,5 +1,6 @@
 # MODERN SMART HOME UI x FLUTTER
 
-Watch tutorial here: https://youtu.be/FMV8pbz0sN8
+![Screenshot_1681708731](https://user-images.githubusercontent.com/98022263/232386203-deda9a7b-c21c-46d7-9e3f-df5ec2714fb9.png)
 
-![C6A307C4-3A35-4CD6-BFB1-63B370A1B07F](https://user-images.githubusercontent.com/29016489/200977277-210b239c-fd92-435e-ad99-0cccd6035afd.JPG)
+
+
